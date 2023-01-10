@@ -6,6 +6,9 @@ Nombre: Michael Andrango
 
 1. Objetivos 
 
+- Identificar los distintos metodos a utilizar en los circuitos a resolver en los problemas.
+
+- Utilizar las distintas leyes que se estudio anteriormente en los clases para las leyes o metodos que se va estudiar.
 
 2. Marco Teorico
 
@@ -289,6 +292,12 @@ No hay voltaje inducido debido a que no hay cambio en el campo magnético.
 
 4.Conclusiones 
 
+En conclusion los distintos metodos utilizados llegan a un mismo punto o objetivo que se quiera solo esta en ver que metodo es con el cual nos familiarizamos mas o se haga mas facil la comprension en la resolucion de ecuaciones, metodo de nodos o lazo, etc.
+
+Los distintos conceptos de electromagnetismo nos familiarixan con el tema presentado y en la comprencion de ejercicios o preguntas de conocimiento que solvento la teoria. 
+
 5. Video
 
 6. Bibliografia 
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
