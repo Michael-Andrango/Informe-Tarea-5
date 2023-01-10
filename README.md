@@ -298,6 +298,8 @@ Los distintos conceptos de electromagnetismo nos familiarixan con el tema presen
 
 5. Video
 
+https://www.youtube.com/watch?v=AwoC6l-xQ3M
+
 6. Bibliografia 
 
 Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
